@@ -59,6 +59,8 @@ button{
     margin: 0 auto 0 10px;
     margin-bottom: 0;
     display: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #hourly-forecast{
